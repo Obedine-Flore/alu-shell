@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l /permissions/1-who_am_i
+ls -l /alu-shell/permissions/1-who_am_i

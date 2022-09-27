@@ -1,1 +1,1 @@
-my permissions
+#!/bin/bash

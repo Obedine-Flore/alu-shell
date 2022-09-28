@@ -1,5 +1,1 @@
 #!/bin/bash
-for file in /alu-shell/io_redirections_and_filters/*
-do
-	echo "#!/bin/bash" > ${file}
-done

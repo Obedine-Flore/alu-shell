@@ -1,0 +1,5 @@
+#!/bin/bash
+for file in alu-shell/	init_files_variables_and_expressions/*
+do
+	echo "#!/bin/bash" > ${file}
+done

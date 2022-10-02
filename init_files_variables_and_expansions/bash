@@ -1,5 +1,5 @@
 #!/bin/bash
-for file in /alu-shell/init_files_variables_and_expressions/*
+for file in /alu-shell/init_files_variables_and_expansions/*
 do
 	echo "#!/bin/bash" > ${file}
 done

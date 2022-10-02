@@ -1,5 +1,5 @@
 #!/bin/bash
 for file in /alu-shell/loops_conditions_and_parsing/*
 do
-	echo "#!bin/bash" > {file}
+	echo "#!bin/bash" > ${file}
 done

@@ -10,8 +10,11 @@ while [ "$x" -lt 21 ]; do
 			echo "bad luck from China"
 			;;
 		9)      echo "$x"
-		        echo "bad luck from Italy"
+		        echo "bad luck from Japan"
 			;;
+		17) 	echo "$x"
+			echo "bad luck from Italy"
+			;;	
 		*)
 			echo "$x"
 			;;

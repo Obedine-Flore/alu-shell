@@ -1,5 +1,5 @@
-#!/bin/bash
+#!/usr/bin/env bash
 for file in /alu-shell/loops_conditions_and_parsing/*
 do
-	echo "#!/bin/bash" > ${file}
-done
+	echo "#!/usr/bin/env bash" ${file}
+done	

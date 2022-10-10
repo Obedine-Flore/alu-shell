@@ -1,2 +1,4 @@
 #!/usr/bin/env bash
-ps 0-what-is-my-pid
+#this script prints the PID of this process
+ps 
+
